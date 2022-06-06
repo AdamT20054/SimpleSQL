@@ -1,4 +1,6 @@
 {
+  "type": "module",
+  
   "name": "simplifiedsql",
   "version": "1.0.0",
   "description": "A NodeJS package desgined to simplify SQL for ease of use without compromising on performance",
