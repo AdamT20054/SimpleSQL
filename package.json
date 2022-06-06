@@ -1,5 +1,5 @@
 {
-  "name": "simplesql",
+  "name": "simplifiedsql",
   "version": "1.0.0",
   "description": "A NodeJS package desgined to simplify SQL for ease of use without compromising on performance",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AdamT20054/SimpleSQL.git"
+    "url": "git+https://github.com/AdamT20054/SimplifiedSQL.git"
   },
   "keywords": [
     "SQL",
@@ -22,7 +22,7 @@
   "author": "Adam",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/AdamT20054/SimpleSQL/issues"
+    "url": "https://github.com/AdamT20054/SimplifiedSQL/issues"
   },
-  "homepage": "https://github.com/AdamT20054/SimpleSQL#readme"
+  "homepage": "https://github.com/AdamT20054/SimplifiedSQL#readme"
 }
