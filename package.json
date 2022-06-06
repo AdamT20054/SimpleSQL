@@ -1,0 +1,28 @@
+{
+  "name": "simplesql",
+  "version": "1.0.0",
+  "description": "A NodeJS package desgined to simplify SQL for ease of use without compromising on performance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdamT20054/SimpleSQL.git"
+  },
+  "keywords": [
+    "SQL",
+    "SQLITE3",
+    "SimpleDB",
+    "database",
+    "simple",
+    "performance",
+    "quickdb"
+  ],
+  "author": "Adam",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/AdamT20054/SimpleSQL/issues"
+  },
+  "homepage": "https://github.com/AdamT20054/SimpleSQL#readme"
+}
